@@ -1,0 +1,37 @@
+.temp-box{
+    padding: 10px;
+}
+.temperature{
+    font-size: 50px;
+}
+.icon{
+    font-size: 50px;
+}
+.other-temp{
+    display: flex;
+    justify-content: space-between;
+}
+.other-details{
+    background-color: #6060ca;
+    padding: 10px;
+    flex-basis: 31%;
+    color: #fff;
+}
+.other-details h3{
+    padding: 5px 0;
+}
+.other-temp .icon{
+    font-size: 35px;
+}
+.sun{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+.weather-info{
+    display: flex;
+    justify-content: center;
+}
+.weather-info > div{
+    margin: 0 15px;
+}
